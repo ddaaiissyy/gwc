@@ -12,4 +12,7 @@ while start == 'yes':
 while start == 'yes':
     userchoice = input("pick your character. Type 1 for The White Queen or type 2 for Tweedledee and Tweedledum ")
     if userchoice == 1: 
-        print()
+        print("You're one step closer!")
+   elif userchoice == 2: 
+        print("")   
+
